@@ -20,7 +20,6 @@ An interactive Streamlit app that scrapes news articles, summarizes them using a
 |----------------|-----------------|
 | ![summary](https://via.placeholder.com/300x150?text=Summary+Demo) | ![slides](https://via.placeholder.com/300x150?text=Slide+View) |
 
-*(Replace with your own screenshots)*
 
 ---
 
